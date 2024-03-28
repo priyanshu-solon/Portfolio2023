@@ -434,7 +434,9 @@ article .icon {
 }
 
 /* FOOTER SECTION */
-
+.hitcounter{
+  text-align:center;
+}
 footer {
   height: 26vh;
   margin: 0 1rem;
